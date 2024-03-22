@@ -1,0 +1,22 @@
+{
+  "name": "estdistinctio",
+  "version": "1.5.0",
+  "description": "Eth sdk",
+  "author": "BettieBayer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaleelBins/estdistinctio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaleelBins/estdistinctio.git/issues"
+  },
+  "dependencies": {
+    "autsequi": "^1.0.1",
+    "lerna": "3.18.4",
+    "sequiet": "^1.0.0",
+    "teneturest": "^1.2.0",
+    "velitsaepe": "^1.0.0",
+    "veniamlaborum": "^1.0.0"
+  }
+}
